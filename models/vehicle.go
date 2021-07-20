@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/adrish96/udaan-coding-test/consts"
+	"github.com/adrish96/parking-lot-lld/consts"
 	"time"
 )
 

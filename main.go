@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/adrish96/udaan-coding-test/consts"
-	"github.com/adrish96/udaan-coding-test/controllers"
-	"github.com/adrish96/udaan-coding-test/models"
+	"github.com/adrish96/parking-lot-lld/consts"
+	"github.com/adrish96/parking-lot-lld/controllers"
+	"github.com/adrish96/parking-lot-lld/models"
 )
 
 func main() {

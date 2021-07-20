@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"github.com/adrish96/udaan-coding-test/consts"
-	r "github.com/adrish96/udaan-coding-test/logic/ratecard"
-	"github.com/adrish96/udaan-coding-test/models"
+	"github.com/adrish96/parking-lot-lld/consts"
+	r "github.com/adrish96/parking-lot-lld/logic/ratecard"
+	"github.com/adrish96/parking-lot-lld/models"
 	"time"
 )
 

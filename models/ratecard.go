@@ -1,6 +1,6 @@
 package models
 
-import "github.com/adrish96/udaan-coding-test/consts"
+import "github.com/adrish96/parking-lot-lld/consts"
 
 type Ratecard struct {
 	ID string

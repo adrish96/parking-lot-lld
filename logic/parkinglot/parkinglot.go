@@ -1,8 +1,8 @@
 package parkinglot
 
 import (
-	"github.com/adrish96/udaan-coding-test/consts"
-	"github.com/adrish96/udaan-coding-test/models"
+	"github.com/adrish96/parking-lot-lld/consts"
+	"github.com/adrish96/parking-lot-lld/models"
 )
 
 // ParkingLotList in-memory store of Parking Lots
