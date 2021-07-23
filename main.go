@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("---Udaan coding test---")
+	fmt.Println("---Parking Lot---")
 
 	// create parking lot
 	parkinglot := controllers.NewParkingLotController()

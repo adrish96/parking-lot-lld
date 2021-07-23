@@ -1,3 +1,3 @@
-module github.com/adrish96/udaan-coding-test
+module github.com/adrish96/parking-lot-lld
 
 go 1.16
